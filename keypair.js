@@ -1,4 +1,4 @@
-import { PublicKey } from './publicKey.js';
+import { PublicKey } from './publicKey1.js';
 import { 
   generateKeypair, 
   getPublicKey, 

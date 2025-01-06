@@ -1,8 +1,9 @@
 {
-  "type":"module",
+  "type": "module",
   "dependencies": {
     "bip39": "^3.1.0",
     "bs58": "^6.0.0",
+    "buffer-layout": "^1.2.2",
     "tweetnacl": "^1.0.3"
   }
 }
